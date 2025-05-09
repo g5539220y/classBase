@@ -12,28 +12,12 @@
 ## 🚀 快速开始
 1. 克隆本仓库：
    ```bash
-   git clone https://github.com/yourusername/classBase.git
+   git clone https://github.com/g5539220y/classBase.git
    ```
 2. 创建对话文件夹：
    ```bash
-   mkdir projects/your_project_name
+   mkdir projects/{日期}
    ```
-3. 使用模板创建对话文件：
-   ```bash
-   cp templates/basic_template.md projects/your_project_name/20231001_discussion.md
-   ```
-
-## 📂 目录结构
-```
-classBase/
-├── templates/            # 对话模板
-│   ├── basic_template.md
-│   └── technical_qa.md
-├── daily_chats/          # 每日临时对话
-├── project_chats/        # 按项目分类
-├── topic_chats/          # 按主题分类
-└── archive/              # 归档历史对话
-```
 
 ## 📝 使用场景
 - 开发过程中快速保存模型输出
